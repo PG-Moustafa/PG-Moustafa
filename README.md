@@ -1,15 +1,46 @@
 <h1 align="center">Hi 👋, I'm Moustafa</h1>
-<h3 align="center">A passionate developer/ Problem solver</h3>
+<h3 align="center">A passionate Software Developer & Problem Solver</h3>
 
-- 📫 How to reach me **programmermoustafa@gmail.com**
+🎓 **Computer Science Student @ Beirut Arab University**  
+📊 **Data & Backend Developer | CGPA: 3.89 | Ranked 2nd**  
+💡 Interested in building impactful tech solutions  
+🧠 Always learning | Solved 130+ coding problems  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/moustafa-haydar-6a1854285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moustafa haydar" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 🧰 Tech Stack
+**Languages:** Python, C++, Java, JavaScript, SQL, HTML/CSS  
+**Frameworks & Tools:** Django, Flutter, Git, GitHub, Bootstrap  
+**Databases:** MySQL, Microsoft SQL Server, MongoDB  
+**Data Analysis Tools:** Power BI, Tableau  
+---
 
+### 🛠️ Projects
+
+- **🎓 Educational Center** – Backend system for the Ibn Badis Center (Django + MySQL)  
+- **🏥 Hospital Accessibility** – Interactive data dashboard using Power BI  
+- **🏦 Bank System** – Bank management app using C++ ([repo](https://github.com/PG-Moustafa/Bank_Management))  
+
+---
+
+### 📈 Experience
+
+- **Ibn Badis Center** – Backend system (Feb 2025–Present)  
+- **Programming Advices** – Backend Roadmap (16/24 courses done)  
+- **Khwarizmi Bootcamp** – Data Analysis with Power BI, Tableau, Python  
+- **SE Factory** – Full stack with Python & web (Oct–Dec 2024)
+
+---
+
+### 🤝 Connect with Me
+
+<a href="https://www.linkedin.com/in/pg-moustafa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moustafa haydar" height="30" width="40" /></a>
+<a href="https://github.com/PG-Moustafa" target="_blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="30" width="30" /></a>
+
+📫 **Email:** programmermoustafa@gmail.com  
+---
+
+### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pg-moustafa&show_icons=true&locale=en&layout=compact" alt="pg-moustafa" /></p>
 
+---
